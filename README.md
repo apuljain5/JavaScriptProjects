@@ -11,3 +11,8 @@
 
 * This is a basic project which keeps track of count.
 * one can increase/decrease/reset the counter using buttons
+
+# 03-reviews
+
+* This is a basic project which shows reviews of certain people.
+* one can switch back and forth in the reviews.
